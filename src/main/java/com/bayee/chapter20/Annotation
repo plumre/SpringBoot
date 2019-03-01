@@ -1,0 +1,8 @@
+三种标准注解：Override,
+               Deprecated,
+                    SuppressWarnings
+
+四种元注解：  Target (ElementType.CONSTRUCTOR/FIELD/LOCAL_VARIABLE/METHOD/PACKAGE/PARAMETER/TYPE),
+            Retention (RetentionPolicy.SOURCE/CLASS/RUNTIME),
+            Documented (此注解包含在Javadoc中),
+            Inherited (允许子类继承父类中的注解)
